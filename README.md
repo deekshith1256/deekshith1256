@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hey 👋 I'm Deekshith
+
+🎓 BTech Student  
+🌱 Currently learning programming  
+🚀 Beginner exploring GitHub and development  
+⚡ Future Software Developer  
+
+---
+
+## 🚀 Skills I'm Learning
+- C++
+- Python
+- Web Development
+- Git & GitHub
+
+---
+
+## 📚 Current Goal
+Learning coding step by step and building projects.
+
+---
+
+## 🌟 Fun Fact
+Anime lover and future tech enthusiast 😄
 
 <!--
 **deekshith1256/deekshith1256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
