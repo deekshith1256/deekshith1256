@@ -1,81 +1,73 @@
-<h1 align="center">Hey 👋 I'm Deekshith</h1>
+<h1 align="center">Hey 👋 I'm Deekshith J</h1>
 
-<h3 align="center">🎓 BTech Student | 🌱 Beginner Developer | 🚀 Learning Step by Step</h3>
+<h3 align="center">
+🚀 Beginner Developer | 🎓 BTech Student | 💻 Learning Step by Step
+</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Learning+Programming+Step+by+Step;Future+Software+Developer;Anime+Lover+%F0%9F%98%84" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Cool+Projects+😄;Future+Software+Developer;Anime+Lover+🔥;Learning+HTML+CSS+JavaScript" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🌱 Currently learning programming
-- 💻 Beginner in coding and development
-- 🚀 Exploring GitHub and technology
+- 🌱 Currently learning Web Development
+- 💻 Building beginner-friendly projects
+- 🚀 Exploring GitHub and programming
 - 🎯 Goal: Become a Software Developer
-- ⚡ Fun fact: I love anime 😄
+- ⚡ Love anime and technology
 
 ---
 
-## 🛠️ Skills I'm Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deekshith1256&show_icons=true&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,git,github,vscode" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deekshith1256&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deekshith1256&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith1256&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 💻 Most Used Languages
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshith1256&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=deekshith1256&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Projects
 
-<p align="left">
-  <a href="https://github.com/deekshith1256">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+🚀 Advanced Calculator  
+🎮 Anime Fighting Game (Coming Soon)  
+🌐 Portfolio Website (Coming Soon)
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/deekshith1256">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile ⭐
 </p>
-<!--
-**deekshith1256/deekshith1256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
